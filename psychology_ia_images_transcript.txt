@@ -1,0 +1,627 @@
+PSYCHOLOGY IA IMAGE TRANSCRIPT
+================================
+
+Source: 45 supplied screenshots.
+
+TRANSCRIPTION CONVENTIONS
+-------------------------
+- The document text is reconstructed in reading order from the unobstructed
+  screenshots near the end of the image sequence.
+- Text shown with green highlighting and a green check marker is enclosed in
+  [HIGHLIGHTED/CHECKED] ... [/HIGHLIGHTED/CHECKED].
+- Gray selection highlighting is marked [GRAY HIGHLIGHT].
+- Pop-up feedback is collected after the document under ANNOTATIONS AND
+  ON-SCREEN FEEDBACK. Numbered markers such as [1] beside document passages
+  point to matching feedback notes. Repeated captures are transcribed once.
+- Interface controls repeated in the screenshots included: "View Subcriterion",
+  "View Tips", "Ask Clai", close (X), and "Written by Dan".
+- Page numbers visible in the captures were 1, 2, 3, and 4.
+
+
+DOCUMENT TRANSCRIPT
+===================
+
+[HIGHLIGHTED/CHECKED]
+Title of Investigation: An investigation of the framing effect and its impact on
+the students' choice to cheat during exams
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+Research Question: How does framing a cheating dilemma in terms of potential
+gains (gaining marks) or potential losses (losing marks) affect students'
+behavioural choices, perceived risk, moral judgments, and emotional reactions in
+a decision-making task?
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+Candidate code: X123456
+Subject: Psychology SL
+Examination Session: May 2026
+Word Count: 2200
+[/HIGHLIGHTED/CHECKED]
+
+
+Introduction
+------------
+
+[HIGHLIGHTED/CHECKED]
+In school, students are often introduced to dilemmas that challenge their
+honesty. This happens most often when they fall under extreme pressure to perform
+well in academics. Pupils very often fear failing and are willing to go to great
+lengths to avoid bad marks, e.g. by choosing to cheat. This act involves potential
+gains (e.g., higher marks) or potential losses (e.g., teacher penalties or
+failing). Understanding how students evaluate these decisions is important
+because cheating undermines academic standards. [1]
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+This study, therefore, aims to address the following question: How does framing a
+cheating dilemma in terms of potential gains (gaining marks) or potential losses
+(losing marks) affect students' behavioural choices, perceived risk, moral
+judgments, and emotional reactions in a decision-making task? [2][4]
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+This question is important in the real-world context of academic competition.
+Small differences in scores can greatly affect students' future options, e.g.,
+choosing a school. The target population for this study is secondary school
+students preparing for major exams like the IGCSE. The associated pressure can
+lead to morally difficult decision-making. Understanding these choices and the
+psychology behind them can help educators see how perceptions of gain and loss
+influence students' thoughts and behaviours. [3]
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+Thus, this study explores theoretical and practical issues in students' risky
+decision-making. The Prospect Theory is the framework behind this work (Kahneman
+& Tversky, 1979; Popov, 2018). It demonstrates that people assess outcomes
+relative to a reference point, not based on absolute terms. Individuals tend to
+avoid risks in situations framed as potential gains but are more inclined to take
+risks when the same situations are presented as potential losses (Balart et al.,
+2022). This phenomenon is known as the framing effect, a cognitive bias in which
+presenting information differently influences choices even when the outcomes
+remain the same (Popov, 2017). [5]
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+Tversky and Kahneman (1981) depicted this theory using the "Asian Disease
+Problem." Participants were asked to choose between two programs (in public
+health) described with either a positive frame (lives saved) or a negative frame
+(lives lost). In cases with positive framing of outcomes, 72% of participants
+preferred the certain option, whereas in the negative frame, 78% chose the risky
+alternative. These findings provided evidence that decision-making under risk is
+influenced by how options are presented. This supports the Prospect Theory. [6][7]
+[/HIGHLIGHTED/CHECKED]
+
+Druckman & McDermott (2008) investigated how emotional states interact with
+framing effects. [HIGHLIGHTED/CHECKED]They found that emotions significantly
+influence individuals' tendencies to take risks and amplify or suppress the
+impact of positive or negative frames.[/HIGHLIGHTED/CHECKED] Importantly, the
+specific effect of emotions depends on both the domain of the decision (e.g.,
+life-death or financial situations) and the type of emotion experienced.
+[HIGHLIGHTED/CHECKED]These findings suggest that emotional responses play a key
+role in shaping how individuals interpret gains and losses, which is highly
+relevant to morally charged academic decisions such as cheating. [6][7]
+[/HIGHLIGHTED/CHECKED]
+
+Building on these findings, the present study applies Tversky & Kahneman (1981)
+and Druckman & McDermott (2008) to investigate the framing effect in a realistic
+academic context. By presenting students with a cheating dilemma framed as either
+a potential gain (gaining marks) or a potential loss (losing marks), this study
+seeks to determine whether students' behavioural choices, moral judgments, and
+emotional responses replicate the risk-taking and emotion patterns from prior
+research.
+
+
+Research Methodology
+====================
+
+Research Method
+---------------
+
+[HIGHLIGHTED/CHECKED]
+This investigation was a laboratory experiment using an independent measures
+design. This allowed for a controlled comparison of students' responses to
+questionnaire questions between two framing conditions: a gain frame ("gaining
+marks") and a loss frame ("losing marks"). This method allowed researchers to
+manipulate and isolate framing (the independent variable) as the main influence
+on participants' decision-making. Other confounding variables were maintained.
+[8][9]
+[/HIGHLIGHTED/CHECKED]
+
+The experiment kept the same environment, instructions (see Appendix 2), and
+time limits (3 minutes) for all participants, which ensured internal validity.
+Unlike correlational or observational methods, [HIGHLIGHTED/CHECKED]an
+experimental design gave us the ability to infer causal relationships between
+the framing condition (gain or loss frame) and students' moral and behavioural
+responses to the cheating choice.[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+This method is suitable for the research question because it aims to determine
+how the framing of a dilemma influences students' risk-taking behaviour, moral
+judgment, and emotional responses when deciding whether to cheat. The independent
+measures design was chosen because each participant was exposed to only one
+framing condition.[/HIGHLIGHTED/CHECKED] This prevented order effects (e.g.,
+learning, fatigue, or awareness of the experiment's manipulation) that could
+occur if participants experienced both. It also reduced the likelihood of demand
+characteristics, as participants were unaware that an alternative version of the
+dilemma existed. Individual differences that could have skewed the data in one of
+the IV groups (e.g., in morality, motivation, or cheating tendencies) were also
+distributed evenly between the two groups, as participants were randomly assigned
+to one of two framing conditions to ensure consistency with the independent
+measures design. [9]
+
+
+Procedure
+---------
+
+[HIGHLIGHTED/CHECKED]The sample included 19 IGCSE students (10 males, 9
+females).[/HIGHLIGHTED/CHECKED] They were all from the same school,
+[HIGHLIGHTED/CHECKED]recruited through opportunity sampling.[/HIGHLIGHTED/CHECKED]
+The research group had access to this participant sample. The subjects were
+available within a time window for this study. Although opportunity sampling
+limits generalizability to a broader population of students, it was practical and
+allowed for timely data collection within the school setting.
+
+This group was particularly appropriate for the research focus. The dilemma
+involved exam cheating, which is a topic with personal relevance for IGCSE
+students who face academic pressure. Their limited formal exposure to economic
+theories reduced the likelihood of informed bias, e.g., participants changing
+their behaviour because they knew the experiment's aim.
+
+[HIGHLIGHTED/CHECKED]
+Following a standardized procedure ensured consistency. First, consent forms were
+distributed and signed by the participants' parents (Appendix 1). Second,
+participants were randomly assigned to one of the IV framing conditions using a
+random number generator. As a result, there were n = 9 participants in the "gain
+marks" condition and n = 10 in the "lose marks" condition. Participants from each
+condition were tested separately. This prevented communication or between-group
+influence. Participants then read standardized instructions (Appendix 2)
+explaining that they would read a short scenario and then answer 5 different
+questions. [10][11]
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+Participants were then presented with their assigned hypothetical cheating
+dilemma using a standardized Google Form (Appendix 2). Each scenario described a
+situation where an "A-grade student" faced a moral decision about whether to
+cheat on an exam. It was framed as a potential gain (marks gained) or a potential
+loss (marks lost).
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+After reading the scenario, participants completed a five-item questionnaire. It
+was created to measure aspects of their decision-making. Items were rated on a
+Likert scale (5-point: 1 = strongly disagree, 5 = strongly agree).
+[/HIGHLIGHTED/CHECKED] It measured:
+
+1) Likelihood of choosing to cheat
+2) Perceived risk of being caught
+3) Moral judgment of cheating
+4) Anticipated guilt or regret
+5) Confidence in (cheating/no cheating) decision
+
+[HIGHLIGHTED/CHECKED]
+Participants had three minutes to read the scenario and answer the questionnaire
+items.
+[/HIGHLIGHTED/CHECKED]
+
+Then, they were debriefed (Appendix 4). The true purpose of the study was
+explained, including the framing concept and the rationale for measuring the
+questionnaire responses, but also that the scenario was hypothetical and
+anonymous. [HIGHLIGHTED/CHECKED]The experiment took place in a quiet classroom,
+reducing noise and related distractions.[/HIGHLIGHTED/CHECKED]
+
+
+Materials
+---------
+
+[GRAY HIGHLIGHT]
+* A standardized Google Form was used to show the scenario and gather responses.
+  The materials included: [12]
+[/GRAY HIGHLIGHT]
+* The written scenario (gain or loss version) about cheating (Appendix 2).
+* The five-item behavioural questionnaire (Appendix 3).
+* Standardized instructions and response timer (3 minutes).
+* Debriefing statement (Appendix 4).
+
+[HIGHLIGHTED/CHECKED]
+Both scenario versions were identical except for the framing manipulation. The
+gain frame highlighted marks that could be gained by cheating. The loss frame
+focused on marks that could be lost by not cheating, in line with Tversky and
+Kahneman (1981).
+[/HIGHLIGHTED/CHECKED]
+
+
+Ethical Considerations
+----------------------
+
+[HIGHLIGHTED/CHECKED]
+* Informed Consent: Parental consent and informed consent were obtained prior to
+  participation.
+* Deception and Debrief: Mild deception was necessary to prevent demand
+  characteristics (participants were not informed that the study examined
+  "framing effects"). This was justified to preserve validity and followed with
+  detailed debriefing information.
+* Anonymity: All responses to the questionnaire were anonymous.
+* Protection: All participants were informed that their answers to this
+  hypothetical would not be judged, since the task involved a cheating scenario
+  that could cause very slight discomfort.
+* Right to Withdraw: Before and after the study, we reminded participants that
+  they could withdraw their data at any point before analysis. [13]
+[/HIGHLIGHTED/CHECKED]
+
+
+Data Collection
+---------------
+
+[HIGHLIGHTED/CHECKED]
+The data were collected using a Framing and Moral Decision-Making Questionnaire
+developed for this study to address the research question best (see Appendix 3).
+The tool included five items designed to measure participants' responses to a
+cheating dilemma. Each item corresponded to a specific aspect of decision-making
+under risk. First, an actual behavioural choice, a perceived risk, a moral
+judgment, a measure of emotional discomfort, and a perceived likelihood of
+success.
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+The inclusion of multiple items ensured that data collection was not limited to a
+single yes/no response. It provides a better understanding of how framing
+influences decision-making when choosing to cheat, which is clearly risky. The
+Likert-scale questions allowed ordinal data to be gathered. This lets us make more
+in-depth interpretations relevant to the research question.
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+Each questionnaire item explored an aspect of how framing (gain vs. loss) shapes
+students' moral and risk-based answers when faced with a hypothetical cheating
+scenario. The first item replicated the usual framing paradigm (choice between
+certain and uncertain outcomes; Tversky and Kahneman, 1981). The other items
+expanded measurement to include perceived risk, moral evaluation, emotional
+response, and expected success, expanding on the Druckman & McDermott (2008)
+results. These are important impacts on risk-taking in education.
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+Several difficulties could still become impactful during data collection. First,
+differences in academic motivation, morality, or experience with cheating could
+impact responses despite the framing condition. Random allocation and using a
+sample of all IGCSE students helped reduce this. Moreover, cheating is a morally
+delicate topic. Participants could, in consequence, under-report their
+willingness to cheat because of social desirability. This was addressed by
+emphasis on anonymity. The questionnaire was also filled out privately.
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+Participants might have also tried to guess the purpose of the study, which could
+distort their responses due to demand characteristics.[/HIGHLIGHTED/CHECKED] This
+was reduced, as they were told only that the study was about "decision-making in
+academic situations," and the word framing was not mentioned before debriefing.
+
+[HIGHLIGHTED/CHECKED]
+As the questionnaire was newly designed, there was a risk of misinterpretation or
+uneven item difficulty.[/HIGHLIGHTED/CHECKED] Each question was reviewed by a
+psychology teacher, and all items used Likert scaling to maintain internal
+validity of the tool. Further, using a standardized Google Form minimized
+researcher influence and ensured consistent presentation. [HIGHLIGHTED/CHECKED]
+Last, the influence of fatigue or failing to engage on our results is unlikely
+because of the short task.[/HIGHLIGHTED/CHECKED] A three-minute limit and clear
+instructions helped sustain attention and prevent careless responding.
+
+
+Discussion
+----------
+
+[HIGHLIGHTED/CHECKED]
+A predicted outcome is that participants who read the gain-framed scenario would
+show a higher tendency toward reporting lower willingness to cheat (Popov, 2018).
+This would be consistent with risk-averse behaviour in the prospect theory
+(Kahneman and Tversky, 1979). Participants in the loss-framed scenario are
+expected to display greater risk-taking behaviour. For example (in self-report),
+higher willingness to cheat, increased confidence in cheating, and lower
+perceived moral acceptability of refusing to cheat.
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+Likert-scale items on perceived risk and anticipated guilt would show that loss
+framing increases the motivation to take action to avoid negative outcomes (even
+if morally difficult). These results would provide support for the framing effect
+in an educational context and extend previous research (e.g., Tversky & Kahneman,
+1981; Balart et al., 2022; Druckman & McDermott, 2008) by demonstrating its
+influence on students' decision-making and intentions.
+[/HIGHLIGHTED/CHECKED]
+
+
+Implications
+------------
+
+[HIGHLIGHTED/CHECKED]
+The study could have an important meaning for understanding cheating. Educators
+might consider that how they frame assessment outcomes influences students'
+decisions to cheat or stay honest. For example, presenting feedback by
+emphasising potential losses could increase risk-taking behaviour (i.e. related
+to cheating). In addition, policies could gain an understanding of emotional
+responses (e.g., guilt or confidence during cheating). They could be utilised to
+promote ethical decision-making by highlighting personal consequences of
+cheating, not just punishments and failures.
+[/HIGHLIGHTED/CHECKED]
+
+
+Researcher Bias
+---------------
+
+[HIGHLIGHTED/CHECKED]
+One potential form of researcher bias in this study is confirmation bias. The
+researcher may have influenced the wording of the scenarios or the questionnaire
+items to align with the expected outcome (e.g., framing the gain or loss scenarios
+in a way that makes the effect more prominent to the reader). This could affect
+the internal validity, as participants' responses might reflect the perceived
+expectations. Using standardized, neutral language in the questionnaire and
+scenario presentation, as well as administering the task via Google Forms,
+attempted to decrease this risk. Nevertheless, the potential for some bias is
+still considered.
+[/HIGHLIGHTED/CHECKED]
+
+
+Alternative Research Method
+---------------------------
+
+[HIGHLIGHTED/CHECKED]
+An alternative approach to explore the same research question could be a
+semi-structured interview to study participants' reasoning in depth after asking
+them the self-report questions. They could explore why they chose a specific
+option, how they interpreted risk, and how moral thinking influenced their
+decision.
+[/HIGHLIGHTED/CHECKED]
+
+[HIGHLIGHTED/CHECKED]
+The value of this method lies in its qualitative nature. The questionnaire
+captures measurable tendencies. In opposite, interviews would provide more
+insight into the cognitive and emotional processes behind decision-making. This
+could enhance understanding of how the framing of risky choices relates to moral
+reasoning. It could show nuance that a Likert-scale questionnaire might miss. More
+qualitative data could show individual differences in moral prioritization, risk
+perception, or justification strategies, impossible to find in numerical data.
+[/HIGHLIGHTED/CHECKED]
+
+
+Bibliography:
+-------------
+
+Balart, P., Ezquerra, L., & Hernandez-Arenaz, I. (2022). Framing effects on
+risk-taking behavior: evidence from a field experiment in multiple-choice tests.
+Experimental Economics, 25(4), 1268-1297. doi:10.1007/s10683-022-09748-9
+
+Druckman, J. N., & McDermott, R. (2008). Emotion and the framing of risky choice.
+Political Behavior, 30(3), 297-321. https://doi.org/10.1007/s11109-008-9056-y
+
+Kahneman, D., & Tversky, A. (1979). Prospect theory: An analysis of decision under
+risk. Econometrica, 47(2), 263-292. 10.2307/1914185
+
+Tversky, A., & Kahneman, D. (1981). The framing of decisions and the psychology of
+choice. Science, 211(4481), 453-458. 10.1126/science.7455683
+
+
+ANNOTATIONS AND ON-SCREEN FEEDBACK
+==================================
+
+The green check icons and highlights indicate passages marked correct by the
+assessment interface. The following pop-ups were visible. All Criterion A/B
+feedback cards were credited "Written by Dan" and included an "Ask Clai" control.
+
+
+[1] CRITERION A - REAL-LIFE PROBLEM / POPULATION
+------------------------------------------------
+
+Status: Correct
+Subcriterion statement: The student explains how the real-life problem impacts
+the population of interest.
+
+Why is it correct?
+The student explains how academic dishonesty affects secondary school students.
+The essay discusses the pressure students face to do well academically and how
+fear of failure can lead to cheating. For example, it mentions how small
+differences in scores can impact future educational opportunities, showing the
+relevance of the research question for IGCSE students.
+
+
+[2] CRITERION A - CLEAR AIM OR RESEARCH QUESTION
+-------------------------------------------------
+
+Subcriterion statement: The student provides a clear aim or research question at
+the beginning of the work.
+
+Why is it correct?
+The student clearly states the aim or research question at the beginning of the
+IA. The Research question is: "How does framing a cheating dilemma in terms of
+potential gains (gaining marks) or potential losses (losing marks) affect
+students' behavioral choices, perceived risk, moral judgments, and emotional
+reactions in a decision-making task?" This makes the focus of the investigation
+clear and highlights its importance in the context of academic pressure and
+decision-making.
+
+
+[3] CRITERION A - DESCRIPTION OF THE REAL-LIFE PROBLEM
+------------------------------------------------------
+
+Subcriterion statement: The student clearly describes the real-life problem that
+the work focuses on.
+
+Why is it correct?
+The student describes the real-life problem by pointing out the pressures faced
+by secondary school students, especially during exams like the IGCSE. The essay
+notes that small differences in exam scores can greatly affect students' future
+options, such as school placement. It discusses how moral dilemmas related to
+cheating and links psychological factors in decision-making to the competitive
+nature of academics, showing how perceptions of gain and loss influence student
+behavior.
+
+
+[4] CRITERION A - AIM RELEVANT TO A REAL-LIFE PROBLEM
+-----------------------------------------------------
+
+Status: Correct
+Subcriterion statement: The provided aim or research question is directly
+relevant to a real-life problem.
+
+Why is it correct?
+The student investigates a real-life problem by examining how framing the
+decision to cheat as either gains or losses affects students' choices, perceived
+risks, moral judgments, and emotional responses. The research focuses on the
+context of academic pressure faced by secondary school students.
+
+
+[5] CRITERION A - SHORT REVIEW OF EXISTING LITERATURE
+-----------------------------------------------------
+
+Subcriterion statement: The research outlines are presented as a short review of
+existing literature.
+
+Why is it correct?
+The student outlines existing literature relevant to the framing effect,
+referencing Prospect Theory and its importance in understanding decision-making
+under risk. They include specific examples like the "Asian Disease Problem" to
+show how framing influences choices. The mention of studies by Druckman &
+McDermott (2008) connects emotional responses to framing effects, showing an
+understanding of the theoretical framework behind the IA.
+
+
+[6] CRITERION A - FINDINGS AND KEY CONCLUSIONS OF RESEARCH STUDIES
+-----------------------------------------------------------------
+
+Subcriterion statement: The student outlines the findings and key conclusions of
+research studies.
+
+Why is it correct?
+The student outlines the findings and key conclusions from relevant research
+studies. For example, the discussion of Tversky and Kahneman's (1981) "Asian
+Disease Problem" shows how framing affects decision-making by presenting data on
+participant preferences in different framing conditions. The student also
+references Druckman & McDermott (2008), highlighting how emotional states
+interact with framing effects, demonstrating an understanding of the complexities
+involved in decision-making under risk.
+
+
+[7] CRITERION A - OUTCOMES AND CONCLUSIONS FROM TWO STUDIES
+----------------------------------------------------------
+
+Subcriterion statement: The key outcomes and conclusions from two studies are
+described and clarified.
+
+Why is it correct?
+The student describes the key outcomes and conclusions from the studies
+referenced in the IA. They note that in cases with positive framing, 72% preferred
+the certain option, while 78% chose the risky alternative under negative framing,
+showing how decision-making is influenced by presentation. The mention of
+findings from Druckman & McDermott (2008) highlights that emotions significantly
+affect risk-taking tendencies, emphasizing the connection between framing and
+decision-making in the research.
+
+
+[8] CRITERION B - RESEARCH METHOD IDENTIFIED
+--------------------------------------------
+
+Subcriterion statement (partially visible): The student describes the research
+method by explaining the laboratory experiment and the independent measures
+design.
+
+Why is it correct?
+The student describes the research method by explaining the laboratory experiment
+and the independent measures design. The explanation covers how the design
+allowed for a controlled comparison of responses between the gain and loss
+framing conditions. The student details the procedure, including participant
+recruitment, random assignment, and the standardized questionnaire used to
+measure decision-making related to the cheating dilemma.
+
+
+[9] CRITERION B - RESEARCH METHOD DESCRIBED AND JUSTIFIED
+--------------------------------------------------------
+
+Subcriterion statement: The selected research method is described and justified,
+so that the reader fully understands why it was chosen and why it is suitable for
+the investigation.
+
+Why is it correct?
+The student describes the research method and explains its suitability for the
+investigation. They mention that the independent measures design allows for a
+comparison between the gain frame and loss frame, isolating the framing variable.
+The student also notes that other confounding variables and environmental factors
+are controlled, which supports internal validity. Additionally, they justify
+using an experimental design to infer causal relationships between framing
+conditions and students' moral and behavioral responses.
+
+
+[10] CRITERION B - DETAILED AND THOROUGH PROCEDURE
+-------------------------------------------------
+
+Status: Correct
+Subcriterion statement: The student provides a detailed and thorough description
+of the procedure.
+
+Why is it correct?
+The student provides a detailed description of the procedure. They explain the
+participant selection process, noting that 19 IGCSE students were recruited
+through opportunity sampling, which is appropriate given the focus on exam
+cheating. The student describes how participants were randomly assigned to
+different framing conditions to ensure consistency. They specify the use of
+standardized instructions and a five-item Likert scale questionnaire, including
+the aspects measured, such as the likelihood of cheating and perceived risk.
+
+
+[11] CRITERION B - PROCEDURAL CHOICES, SAMPLE, DESIGN, AND SETTING
+---------------------------------------------------------------
+
+Status: Correct
+Subcriterion statement: The student explains the procedure so that the reader
+understands their choices regarding planning and conducting the investigation,
+the sampling technique used, sample characteristics, design, and the chosen
+setting.
+
+Why is it correct?
+The student explains the procedure clearly in the IA, making it easy to understand
+how the investigation was planned and carried out. The sampling technique is
+described, noting that 19 IGCSE students were recruited through opportunity
+sampling, which is suitable given the focus on academic cheating. The student
+explains how participants were randomly assigned to framing conditions, ensuring
+consistency in the experiment.
+
+
+[12] MATERIALS GUIDE POP-UP
+---------------------------
+
+Title: Materials Guide
+
+List the materials used and explain what each one did in the investigation. The
+exemplar is effective because it keeps the materials simple but controlled: a
+standardized Google Fo...
+
+Control shown: View Full Guide
+
+Note: The guide text ended with an ellipsis in the screenshot; no additional text
+was visible.
+
+
+[13] CRITERION B - ETHICAL ISSUES
+--------------------------------
+
+Subcriterion statement: The student addresses the ethical issues and proposes
+ways to minimize their impact.
+
+Why is it correct?
+The student addresses ethical issues in the IA by explaining informed consent and
+parental approval before participation. The inclusion of mild deception is
+justified to reduce demand characteristics, and a thorough debriefing is provided
+to explain the study's true purpose afterward. Anonymity is maintained throughout
+the research to keep responses confidential. The right to withdraw is clearly
+communicated, allowing participants to feel secure in their involvement.
+
+
+OTHER VISIBLE WEBSITE CONTENT
+=============================
+
+Promotional banner:
+"Find the hidden mistakes that cost points."
+"Even a perfect draft can hide critical errors. Our IB Examiners will identify
+them and show you exactly what to fix before submission."
+Button: "Discover My Errors"
