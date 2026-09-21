@@ -1,0 +1,305 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{AINLEY2008109}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=513a00a2c389b66ddc323f7db622c089}{%
+           family={Ainley},
+           familyi={A\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50306b7a308c8dd374deadf8e25e101c}{%
+           family={Enger},
+           familyi={E\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=644ecb238169ea8540b1a03328ee7609}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Gregor},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6e409a7f45e4a68e3917c54fd3cf66d}
+      \strng{fullhash}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{fullhashraw}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{bibnamehash}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{authorbibnamehash}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{authornamehash}{f6e409a7f45e4a68e3917c54fd3cf66d}
+      \strng{authorfullhash}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{authorfullhashraw}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this investigation mixed methods were used to examine flow within the context of a writing task. Forty-four secondary students aged between 15 and 18 years completed a computer-based writing task requiring them to examine information and then write on one of two topical issues. We examined the level of agreement between end-of-task ratings based on two approaches to measuring flow, the four-channel model ratio of challenge and skill, and a classification based on ratings of absorption, timelessness and effort. Flow groups that emerged were significantly associated but not entirely consistent. A range of additional data sources concerning students’ on-task experiences illustrated different patterns of task engagement. The variability between indicators suggests that flow cannot be reliably identified through any narrow set of measures. Just as the flow experience is complex so a range of indicators is needed to identify when and how students experience flow in their learning.}
+      \field{issn}{0883-0355}
+      \field{journaltitle}{International Journal of Educational Research}
+      \field{note}{Application of qualitative and quantitative methods to enrich understanding of emotional and motivational aspects of learning}
+      \field{number}{2}
+      \field{title}{The elusive experience of ‘flow’: Qualitative and quantitative indicators}
+      \field{volume}{47}
+      \field{year}{2008}
+      \field{pages}{109\bibrangedash 121}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijer.2007.11.011
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0883035508000293
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0883035508000293
+      \endverb
+      \keyw{Mixed methods,Flow,Engagement,On-task experience}
+    \endentry
+    \entry{Mazid2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e874e60b2bb1c8ae010af17fd5388f71}{%
+           family={Mazid},
+           familyi={M\bibinitperiod},
+           given={Afrin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e77e63fc9ada74f1807ceae70d0765f2}{%
+           family={Samantaray},
+           familyi={S\bibinitperiod},
+           given={Narendra\bibnamedelima Nath},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2394bc521d70de67e9cf871670989b7d}{%
+           family={Chaudhury},
+           familyi={C\bibinitperiod},
+           given={Suprakash},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e25c99dab77b640cc0fb552aab52bf7}
+      \strng{fullhash}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{fullhashraw}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{bibnamehash}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{authorbibnamehash}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{authornamehash}{1e25c99dab77b640cc0fb552aab52bf7}
+      \strng{authorfullhash}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{authorfullhashraw}{b538f74da73f4e859a5a3dabef1bf042}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Psychiatry Journal}
+      \field{number}{1}
+      \field{title}{Theoretical underpinnings of flow and its relation with academic engagement: A narrative review}
+      \field{volume}{35}
+      \field{year}{2024}
+      \field{pages}{25\bibrangedash 36}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.4103/ipj.ipj_26_24
+      \endverb
+    \endentry
+    \entry{Schwartz2000}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5f22299c31ac35283104a867ea99f18a}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{fullhash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{fullhashraw}{5f22299c31ac35283104a867ea99f18a}
+      \strng{bibnamehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authorbibnamehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authornamehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authorfullhash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authorfullhashraw}{5f22299c31ac35283104a867ea99f18a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Psychologist}
+      \field{number}{1}
+      \field{title}{Self-Determination: The Tyranny of Freedom}
+      \field{volume}{55}
+      \field{year}{2000}
+      \field{pages}{79\bibrangedash 88}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1037/0003-066X.55.1.79
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{AINLEY2008109}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=513a00a2c389b66ddc323f7db622c089}{%
+           family={Ainley},
+           familyi={A\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50306b7a308c8dd374deadf8e25e101c}{%
+           family={Enger},
+           familyi={E\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=644ecb238169ea8540b1a03328ee7609}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Gregor},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6e409a7f45e4a68e3917c54fd3cf66d}
+      \strng{fullhash}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{fullhashraw}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{bibnamehash}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{authorbibnamehash}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{authornamehash}{f6e409a7f45e4a68e3917c54fd3cf66d}
+      \strng{authorfullhash}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \strng{authorfullhashraw}{af2e7cea5b8d664269e9793cb5b92a1f}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this investigation mixed methods were used to examine flow within the context of a writing task. Forty-four secondary students aged between 15 and 18 years completed a computer-based writing task requiring them to examine information and then write on one of two topical issues. We examined the level of agreement between end-of-task ratings based on two approaches to measuring flow, the four-channel model ratio of challenge and skill, and a classification based on ratings of absorption, timelessness and effort. Flow groups that emerged were significantly associated but not entirely consistent. A range of additional data sources concerning students’ on-task experiences illustrated different patterns of task engagement. The variability between indicators suggests that flow cannot be reliably identified through any narrow set of measures. Just as the flow experience is complex so a range of indicators is needed to identify when and how students experience flow in their learning.}
+      \field{issn}{0883-0355}
+      \field{journaltitle}{International Journal of Educational Research}
+      \field{note}{Application of qualitative and quantitative methods to enrich understanding of emotional and motivational aspects of learning}
+      \field{number}{2}
+      \field{title}{The elusive experience of ‘flow’: Qualitative and quantitative indicators}
+      \field{volume}{47}
+      \field{year}{2008}
+      \field{pages}{109\bibrangedash 121}
+      \range{pages}{13}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.ijer.2007.11.011
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0883035508000293
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0883035508000293
+      \endverb
+      \keyw{Mixed methods,Flow,Engagement,On-task experience}
+    \endentry
+    \entry{Mazid2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e874e60b2bb1c8ae010af17fd5388f71}{%
+           family={Mazid},
+           familyi={M\bibinitperiod},
+           given={Afrin},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e77e63fc9ada74f1807ceae70d0765f2}{%
+           family={Samantaray},
+           familyi={S\bibinitperiod},
+           given={Narendra\bibnamedelima Nath},
+           giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2394bc521d70de67e9cf871670989b7d}{%
+           family={Chaudhury},
+           familyi={C\bibinitperiod},
+           given={Suprakash},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1e25c99dab77b640cc0fb552aab52bf7}
+      \strng{fullhash}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{fullhashraw}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{bibnamehash}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{authorbibnamehash}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{authornamehash}{1e25c99dab77b640cc0fb552aab52bf7}
+      \strng{authorfullhash}{b538f74da73f4e859a5a3dabef1bf042}
+      \strng{authorfullhashraw}{b538f74da73f4e859a5a3dabef1bf042}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Industrial Psychiatry Journal}
+      \field{number}{1}
+      \field{title}{Theoretical underpinnings of flow and its relation with academic engagement: A narrative review}
+      \field{volume}{35}
+      \field{year}{2024}
+      \field{pages}{25\bibrangedash 36}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.4103/ipj.ipj_26_24
+      \endverb
+    \endentry
+    \entry{Schwartz2000}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5f22299c31ac35283104a867ea99f18a}{%
+           family={Schwartz},
+           familyi={S\bibinitperiod},
+           given={Barry},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{fullhash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{fullhashraw}{5f22299c31ac35283104a867ea99f18a}
+      \strng{bibnamehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authorbibnamehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authornamehash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authorfullhash}{5f22299c31ac35283104a867ea99f18a}
+      \strng{authorfullhashraw}{5f22299c31ac35283104a867ea99f18a}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Psychologist}
+      \field{number}{1}
+      \field{title}{Self-Determination: The Tyranny of Freedom}
+      \field{volume}{55}
+      \field{year}{2000}
+      \field{pages}{79\bibrangedash 88}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1037/0003-066X.55.1.79
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
