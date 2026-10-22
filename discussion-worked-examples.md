@@ -35,13 +35,14 @@ difference between a proposal that can be tested and one that can only be descri
 ### 1b. Connecting to the two studies already cited (≈1 paragraph)
 
 > Both sources this proposal builds on treat flow as a state with separable components rather than a single
-> quantity. \textcite{AINLEY2008109} operationalise it through absorption, timelessness and effort precisely
-> because the preconditions (such as challenge–skill balance) cannot be observed directly in a classroom;
-> \textcite{Mazid2024} frames the same state as the outcome of an optimal learning schedule. Placing
-> perceived control alongside the challenge–skill balance therefore tests something neither source settles:
-> whether control acts on flow independently of challenge, or only through it. If the effect disappears
-> once challenge is held constant, the practical implication is that control is not a lever in its own
-> right — which would be a negative result with a clear interpretation, not a failed study.
+> quantity. Ainley et al. operationalise it through absorption, timelessness and effort precisely because the
+> preconditions (such as challenge–skill balance) cannot be observed directly in a classroom
+> \parencite{AINLEY2008109}; \parencite{Mazid2024} frames the same state as the outcome of an optimal
+> learning schedule. Placing perceived control alongside the challenge–skill balance therefore tests
+> something neither source settles: whether control acts on flow independently of challenge, or only through
+> it. If the effect disappears once challenge is held constant, the practical implication is that control is
+> not a lever in its own right — which would be a negative result with a clear interpretation, not a failed
+> study.
 
 ### 1c. Policy and practice (≈1 paragraph)
 
@@ -125,6 +126,8 @@ proposal with a long discussion and a thin method reads worse than a proportiona
 - [ ] Exactly **one** additional method, with its limitation.
 - [ ] Policy paragraph names a caution as well as a recommendation.
 - [ ] Word count re-measured afterwards (`tools/submission-check.py`).
+- [ ] **Citations use `\parencite{}` only** — that is the convention already used throughout `main.tex`, and
+      these examples were written to match it. Do not introduce `\textcite` for two sources.
 
 ## What I did not do
 
