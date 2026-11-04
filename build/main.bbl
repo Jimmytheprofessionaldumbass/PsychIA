@@ -123,6 +123,44 @@
       \verb 10.4103/ipj.ipj_26_24
       \endverb
     \endentry
+    \entry{Belmont1979}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d20e948fd68eaa703eb9b6ca9d005798}{%
+           family={{National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {U.S. Department of Health, Education,}%
+        {Welfare}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \strng{namehash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{fullhash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{fullhashraw}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{bibnamehash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{authorbibnamehash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{authornamehash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{authorfullhash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{authorfullhashraw}{d20e948fd68eaa703eb9b6ca9d005798}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research}
+      \field{type}{techreport}
+      \field{year}{1979}
+      \verb{urlraw}
+      \verb https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html
+      \endverb
+      \verb{url}
+      \verb https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html
+      \endverb
+    \endentry
     \entry{Schwartz2000}{article}{}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5f22299c31ac35283104a867ea99f18a}{%
@@ -262,6 +300,44 @@
       \range{pages}{12}
       \verb{doi}
       \verb 10.4103/ipj.ipj_26_24
+      \endverb
+    \endentry
+    \entry{Belmont1979}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d20e948fd68eaa703eb9b6ca9d005798}{%
+           family={{National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {U.S. Department of Health, Education,}%
+        {Welfare}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \strng{namehash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{fullhash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{fullhashraw}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{bibnamehash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{authorbibnamehash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{authornamehash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{authorfullhash}{d20e948fd68eaa703eb9b6ca9d005798}
+      \strng{authorfullhashraw}{d20e948fd68eaa703eb9b6ca9d005798}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research}
+      \field{type}{techreport}
+      \field{year}{1979}
+      \verb{urlraw}
+      \verb https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html
+      \endverb
+      \verb{url}
+      \verb https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html
       \endverb
     \endentry
     \entry{Schwartz2000}{article}{}{}
