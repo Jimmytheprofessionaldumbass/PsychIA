@@ -19,6 +19,65 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Ainley2002}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=513a00a2c389b66ddc323f7db622c089}{%
+           family={Ainley},
+           familyi={A\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd8e4ae110b5a69aef05bc41d7d03d2e}{%
+           family={Hidi},
+           familyi={H\bibinitperiod},
+           given={Suzanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5880022ff76d400400020113d377e6b0}{%
+           family={Pintrich},
+           familyi={P\bibinitperiod},
+           given={Paul\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c4f9859047cc551692cba7ba428e05d9}{%
+           family={Maehr},
+           familyi={M\bibinitperiod},
+           given={Martin\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science}%
+      }
+      \strng{namehash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{fullhash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{fullhashraw}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{bibnamehash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{authorbibnamehash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{authornamehash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{authorfullhash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{authorfullhashraw}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{editorbibnamehash}{53b24d5101bd2256e99f2c6566672796}
+      \strng{editornamehash}{53b24d5101bd2256e99f2c6566672796}
+      \strng{editorfullhash}{53b24d5101bd2256e99f2c6566672796}
+      \strng{editorfullhashraw}{53b24d5101bd2256e99f2c6566672796}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Motivation and Achievement: New Directions in Measures and Methods}
+      \field{title}{Dynamic Measures for Studying Interest and Learning}
+      \field{volume}{12}
+      \field{year}{2002}
+      \field{pages}{43\bibrangedash 76}
+      \range{pages}{34}
+    \endentry
     \entry{AINLEY2008109}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=513a00a2c389b66ddc323f7db622c089}{%
@@ -254,6 +313,65 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0883035508000293
       \endverb
       \keyw{Mixed methods,Flow,Engagement,On-task experience}
+    \endentry
+    \entry{Ainley2002}{inbook}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=513a00a2c389b66ddc323f7db622c089}{%
+           family={Ainley},
+           familyi={A\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd8e4ae110b5a69aef05bc41d7d03d2e}{%
+           family={Hidi},
+           familyi={H\bibinitperiod},
+           given={Suzanne},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5880022ff76d400400020113d377e6b0}{%
+           family={Pintrich},
+           familyi={P\bibinitperiod},
+           given={Paul\bibnamedelima R.},
+           giveni={P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=c4f9859047cc551692cba7ba428e05d9}{%
+           family={Maehr},
+           familyi={M\bibinitperiod},
+           given={Martin\bibnamedelima L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Amsterdam}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Science}%
+      }
+      \strng{namehash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{fullhash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{fullhashraw}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{bibnamehash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{authorbibnamehash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{authornamehash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{authorfullhash}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{authorfullhashraw}{e87d48baa82a9d0e12bd4d3d2e315f90}
+      \strng{editorbibnamehash}{53b24d5101bd2256e99f2c6566672796}
+      \strng{editornamehash}{53b24d5101bd2256e99f2c6566672796}
+      \strng{editorfullhash}{53b24d5101bd2256e99f2c6566672796}
+      \strng{editorfullhashraw}{53b24d5101bd2256e99f2c6566672796}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Advances in Motivation and Achievement: New Directions in Measures and Methods}
+      \field{title}{Dynamic Measures for Studying Interest and Learning}
+      \field{volume}{12}
+      \field{year}{2002}
+      \field{pages}{43\bibrangedash 76}
+      \range{pages}{34}
     \endentry
     \entry{Mazid2024}{article}{}{}
       \name{author}{3}{}{%
